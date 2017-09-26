@@ -7,6 +7,7 @@ public class PrintyScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log ("You did it");
+		Debug.Log ("You really did it now.");
 	}
 	
 	// Update is called once per frame
